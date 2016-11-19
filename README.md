@@ -3,5 +3,6 @@
 ![The Mister](https://raw.githubusercontent.com/themister1/themister/master/repository.TheMisterRepository/icon.png)
 ===================
 
-#First Addon - FailArmy
-#Second Addon - DutchYouTubeChannels
+#All Addons Made by The Mister
+- FailArmy
+- DutchYouTubeChannels
